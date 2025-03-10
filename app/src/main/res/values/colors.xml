@@ -1,0 +1,31 @@
+<resources>
+    <color name="primary_color">#1877F2</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vàng">#FFEB3B</color>
+    <color name="xanh">#1877F2</color>
+    <color name="bottom_nav_color">#FF000000</color>
+    <color name="dark_red">#B71C1C</color>
+    <color name="dark_orange">#E65100</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="purple">#9C27B0</color>
+    <color name="pink">#E91E63</color>
+    <color name="brown">#795548</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="teal">#009688</color>
+    <color name="amber">#FFC107</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="lime">#CDDC39</color>
+
+    <color name="light_cyan">#E0FFFF</color>
+    <color name="light_pink">#FFB6C1</color>
+    <color name="light_yellow">#FFFFE0</color>
+    <color name="light_lavender">#E6E6FA</color>
+    <color name="light_mint">#F5FFFA</color>
+    <color name="light_sky_blue">#87CEFA</color>
+    <color name="light_sea_green">#20B2AA</color>
+    <color name="light_slate_gray">#778899</color>
+    <color name="light_steel_blue">#B0C4DE</color>
+    <color name="light_violet">#EE82EE</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ShopMaketTL" parent="Theme.AppCompat.Light.NoActionBar">
+
+
+    </style>
+
+    <style name="Theme.ShopMaketTL" parent="Base.Theme.ShopMaketTL" />
+</resources>
